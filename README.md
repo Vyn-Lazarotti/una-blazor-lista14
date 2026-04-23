@@ -1,4 +1,4 @@
-# Identificação: 
+# Identificação
 Vinicius Amaral Lazaroti
 Análise e Desenvolvimento de Sistemas
 
